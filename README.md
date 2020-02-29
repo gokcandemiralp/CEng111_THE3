@@ -6,3 +6,4 @@ The course is INTRODUCTION TO COMPUTER ENGINEERING CONCEPTS.
 Assignment focuses on loops and recursion.
 Repository consists my solution and some test cases prepared by METU Computer Engineering Department.
 My solution has a minor bug it is rated "95.50 / 100.00".
+You can find the tester here https://github.com/hasanbal/THE3-tester
